@@ -5,7 +5,7 @@
  * @argc: argument
  * @argv: argument
  * Return: 0 when succesful
- * */
+ */
 
 int main(int argc, char *argv[] __attribute__((unused)))
 
